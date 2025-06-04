@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔹 Web Developer experienced in React, Flask, Node.js, Express, and MongoDB<br>🔹 Backend Engineer with expertise in Python, JavaScript, and SQL (SQLite, PostgreSQL, MySQL)<br>🔹 Enthusiast in AI/ML, currently learning about PC building for AI/ML tasks<br>🔹 Love working on full-stack projects and building web applications from scratch<br>
+🔹 Web Developer experienced in React, NextJs, Node.js, Express, and MongoDB, <br>🔹 Backend Engineer with expertise in Python, JavaScript, and SQL (SQLite, PostgreSQL, MySQL)<br>🔹 Enthusiast in AI/ML, currently learning about PC building for AI/ML tasks<br>🔹 Love working on full-stack projects and building web applications from scratch<br>
 
 
 ## 🌐 Socials:
