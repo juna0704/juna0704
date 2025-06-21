@@ -1,6 +1,35 @@
 
 # 💫 About Me:
-🔹 Web Developer experienced in React, NextJs, Node.js, Express, and MongoDB, <br>🔹 Backend Engineer with expertise in Python, JavaScript, and SQL (SQLite, PostgreSQL, MySQL)<br>🔹 Enthusiast in AI/ML, currently learning about PC building for AI/ML tasks<br>🔹 Love working on full-stack projects and building web applications from scratch<br>
+# 💻 Junaid Ali Khan
+
+### Web Developer | Backend Engineer | AI/ML Enthusiast
+
+Hi! I'm **Junaid**, a passionate and self-driven developer who loves building full-stack web applications from scratch. My current focus is on creating performant and scalable products using modern web technologies and tools.
+
+- 🔹 **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn/UI
+- 🔹 **Backend:** Node.js, Express, Python
+- 🔹 **Databases:** MongoDB, PostgreSQL, MySQL, SQLite
+- 🔹 **Tools & DevOps:** Git, GitHub, Vercel, AWS (S3, EC2), Docker
+- 🔹 **AI/ML Curious:** Exploring AI/ML concepts and building my PC for intensive ML workloads
+
+---
+
+## 🚀 What I Enjoy
+
+- 🛠️ Building full-stack applications with clean architecture
+- ⚙️ Integrating APIs and cloud services (e.g., AWS, Stripe)
+- 🔍 Solving backend challenges with SQL and data modeling
+- 🧠 Learning about infrastructure and deploying production-ready apps
+- 🤖 Exploring AI and machine learning in practical applications
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: [juna0704](https://github.com/juna0704)
+
+---
+
 
 
 ## 🌐 Socials:
