@@ -28,7 +28,6 @@ Currently focused on creating **performant and scalable products** using modern 
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://github.com/juna0704" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
