@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm <strong>Junaid Ali Khan</strong></h1>
-<h3 align="center">Backend Engineer | TypeScript & Node.js Developer | System Design Enthusiast</h3>
+<h3 align="center">Backend Engineer | TypeScript & Node.js Developer | AI/ML Design Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/juna0704">
